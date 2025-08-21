@@ -1,1 +1,2 @@
-proto type project
+Proto type project.
+Made with HTML, CSS, Javascript.
